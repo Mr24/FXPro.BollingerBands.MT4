@@ -8,7 +8,7 @@
 //|                   Copyright 2005-2014, MetaQuotes Software Corp. |
 //|                                              http://www.mql4.com |
 //|                                Released under the Apache license |
-//|			              https://opensource.org/licenses/Apache-2.0 |
+//|			  https://opensource.org/licenses/Apache-2.0 |
 //+------------------------------------------------------------------+
 #property copyright "Copyright(c) 2016 -, VerysVery Inc. && Yoshio.Mr24"
 #property link      "https://github.com/Mr24/MetaTrader4/"
