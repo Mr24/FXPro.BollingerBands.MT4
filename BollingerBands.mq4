@@ -12,7 +12,7 @@
 //+------------------------------------------------------------------+
 #property copyright "Copyright(c) 2016 -, VerysVery Inc. && Yoshio.Mr24"
 #property link      "https://github.com/Mr24/MetaTrader4/"
-#property description "VsV.MT4.BollingerBands - Ver.1.0.0 Update:2016.10.05"
+#property description "VsV.MT4.BollingerBands - Ver.1.0.1 Update:2016.10.07"
 #property strict
 
 #include <MovingAverages.mqh>
